@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi ! I'm brand-new to coding in general.
+
 
 <!--
 **liliaiko/liliaiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
