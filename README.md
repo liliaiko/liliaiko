@@ -1,5 +1,6 @@
 ### Hi ! I'm brand-new to coding in general.
-
+I'm a Linguistics major student who wants to learn how to use the technology to expand my linguistic knowledge. 
+Eventually, I want to become a speech-language pathologist, so I want to understand knowledge from a computational lens as well. 
 
 <!--
 **liliaiko/liliaiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
